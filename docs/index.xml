@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>David Cardona</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on David Cardona</description>
+    <image>
+      <title>David Cardona</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 05 Apr 2024 17:36:07 +1200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Fri, 05 Apr 2024 17:36:07 +1200</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>👋 I´m David Cardona Digital Creator (Data Analyst / Developer / Digital writer)
+💫 About Me: 👨🏻‍💻 Engineer sharing about my journey and learnings in tech. 💭 Making digital content about Data Science, tech, and productivity. 🌱 #LearningInPublic in my digital garden ⚡ Currently learning about data analytics and dataviz! 🧑‍💻 Professional profile A confident and responsible engineer with expertise in Data Analysis using technologies like Python, SQL, JavaScript, Tableau, PowerBI, and databases.</description>
+    </item>
+    <item>
+      <title>Changelog</title>
+      <link>http://localhost:1313/changelog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/changelog/</guid>
+      <description>It&amp;rsquo;s about the journey, not the destination 🚗
+Done ✅ Create site (done 11/04/24)
+✅ Publish to GitHub and deploy to GitHub pages (done 11/04/24)
+✅ Add favicon (done 09/04/24)
+✅ Create an About page\
+To-Do ⚪️ Buy a domain and link it to my site
+⚪️ Integrate Disqus comments
+⚪️ Write and publish first post
+⚪️ Add RSS feed
+⚪️ Add Google Analytics
+⚪️ Fix responsive layout (increase margins)</description>
+    </item>
+  </channel>
+</rss>
