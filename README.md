@@ -1,21 +1,19 @@
 # Digital Garden
 
-This is my first ever digital garden aka dev blog! Check it out here 👉 https://magdelinehuang.com/
+This is my first ever digital garden aka dev blog! Check it out here 👉
 
-I've been working as a Software Engineer for ~7 months now and I've learnt so much, so I figured it was about time I started a blog to document all my learnings!
-
-Except rather than a blog, I'd like to think of this as my [digital garden](https://maggieappleton.com/garden-history) where I [#learninpublic](https://www.swyx.io/learn-in-public/) 📝
+Except rather than a blog, I'd like to think of this as my digital garden where I [#learninpublic](https://www.swyx.io/learn-in-public/) 📝
 
 I plan to populate my garden with plants on:
 
 - The stack I'm using: JavaScript, TypeScript, React, styled-components, GraphQL
 - Misc stuff eg how to use DevTools, the DOM, writing tests, my fav tech people
 - Projects I build
-- My journey as a Software Engineer
+- My journey as a Engineer
 
 Note that there is no set planting schedule, and the plants may be re-tended to.
 
-I hope you enjoy visiting my garden 🌷
+I hope you enjoy visiting my garden.
 
 And I look forward to being invited to yours one day 😛
 
