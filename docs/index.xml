@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Apr 2024 17:36:07 +1200</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 17:41:52 +1200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🪴My digital Garden</title>
+      <link>http://localhost:1313/posts/001_digital_garden/</link>
+      <pubDate>Fri, 12 Apr 2024 17:41:52 +1200</pubDate>
+      <guid>http://localhost:1313/posts/001_digital_garden/</guid>
+      <description>About my digital garden</description>
+    </item>
     <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
@@ -30,7 +37,7 @@
 Done ✅ Create site (done 11/04/24)
 ✅ Publish to GitHub and deploy to GitHub pages (done 11/04/24)
 ✅ Add favicon (done 09/04/24)
-✅ Create an About page\
+✅ Create an About page
 To-Do ⚪️ Buy a domain and link it to my site
 ⚪️ Integrate Disqus comments
 ⚪️ Write and publish first post

@@ -1,10 +1,45 @@
-# 🪴 Digital Garden
+---
+title: "🪴My digital Garden"
+date: 2024-04-12T17:41:52+12:00
+draft: false
+summary: "About my digital garden"
+description: "About my digital garden" 
+weight: 1
+tags: ["digital garden","about"]
+author: "David Cardona"
+showToc: false
+TocOpen: false
+hidemeta: false
+comments: true
+canonicalURL: "https://canonical.url/to/page"
+disableHLJS: true # to disable highlightjs
+disableShare: false
+disableHLJS: false
+hideSummary: false
+searchHidden: false
+ShowReadingTime: true
+ShowBreadCrumbs: false
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: false
+cover:
+    image: "<image path/url>" # image path/url
+    alt: "<alt text>" # alt text
+    caption: "<text>" # display caption under cover
+    relative: false # when using page bundles set this to true
+    hidden: true # only hide on current single page
+---
+Hello, world!
+
+I am an engineer who graduated from Colombia, eager to travel the world, and I am currently working as an engineer in Portugal. It's been 11 months and I've learned a lot, so I thought it was time to start a blog-ish (digital garden🪴) to document everything I've learned!
+
 
 This is my first ever digital garden aka dev blog! Check it out here 👉[link](https://juandabi.github.io/)
 
 Except rather than a blog, I'd like to think of this as my digital garden where I [#learninpublic](https://www.swyx.io/learn-in-public/) 📝
 
-I plan to populate my garden with plants on:
+I plan to populate my garden with info on:
 
 - The stack I'm using: Python, Pandas, SQL, PowerBI, Tableu,MS Excel. 
 - Misc stuff eg how to use DevTools, writing tests, notes, cheat sheets, my fav tech people
@@ -20,6 +55,7 @@ And I look forward to being invited to yours one day 😛
 ---
 
 ### Notes
+
 
 Special thanks to Magdeline for her tutorial and explanation!
 - [Magdeline Huang\'s digital garden](https://magdelinehuang.com/)
