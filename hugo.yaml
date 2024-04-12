@@ -1,4 +1,4 @@
-baseURL: "https://juandabi.github.io/"
+baseURL: "https://davidcardonadev.github.io/"
 title: David Cardona
 paginate: 10
 theme: PaperMod
@@ -81,7 +81,7 @@ params:
 
   socialIcons:
     - name: github
-      url: "https://github.com/juandabi"
+      url: "https://github.com/davidcardonadev"
     - name: LinkedIn
       url: "https://www.linkedin.com/in/jdavidcardonam/"
     - name: YouTube
@@ -165,4 +165,4 @@ publishDir: "docs"
 
 
 # Disqus comments
-#disqusShortname: juandabi
+#disqusShortname: davidcardonadev
