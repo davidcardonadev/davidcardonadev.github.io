@@ -1,4 +1,4 @@
-baseURL: https://juandabi.github.io/
+baseURL: /
 title: David Cardona
 paginate: 10
 theme: PaperMod
