@@ -8,10 +8,9 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2024-04-05T17:36:07+12:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/changelog/</loc>
-    <lastmod>2022-06-27T13:00:42+12:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/archive/</loc>
+  </url><url>
+    <loc>http://localhost:1313/changelog/</loc>
   </url><url>
     <loc>http://localhost:1313/search/</loc>
   </url><url>
