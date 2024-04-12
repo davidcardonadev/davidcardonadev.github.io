@@ -6,7 +6,7 @@ Except rather than a blog, I'd like to think of this as my digital garden where 
 
 I plan to populate my garden with plants on:
 
-- The stack I'm using: JavaScript, TypeScript, React, styled-components, GraphQL
+- The stack I'm using: Python, Pandas, SQL, PowerBI, Tableu,MS Excel. 
 - Misc stuff eg how to use DevTools, the DOM, writing tests, my fav tech people
 - Projects I build
 - My journey as a Engineer
