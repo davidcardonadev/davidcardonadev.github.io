@@ -1,6 +1,6 @@
 ---
 title: "Creating my website with GoHugo"
-date: 2024-04-12T17:41:52+12:00
+date: 2024-04-13T17:41:52+12:00
 draft: false
 summary: "Creating my website with GoHugo in GitHub Pages"
 description: "Creating my website with GoHugo in GitHub Pages" 
