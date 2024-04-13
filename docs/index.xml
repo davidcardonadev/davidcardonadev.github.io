@@ -21,6 +21,13 @@
       <description>About my digital garden</description>
     </item>
     <item>
+      <title>Creating my website with GoHugo</title>
+      <link>http://localhost:1313/posts/002_my_website_gohugo/</link>
+      <pubDate>Fri, 12 Apr 2024 17:41:52 +1200</pubDate>
+      <guid>http://localhost:1313/posts/002_my_website_gohugo/</guid>
+      <description>Creating my website with GoHugo in GitHub Pages</description>
+    </item>
+    <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Fri, 05 Apr 2024 17:36:07 +1200</pubDate>

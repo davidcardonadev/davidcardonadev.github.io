@@ -5,6 +5,9 @@
     <loc>http://localhost:1313/posts/001_digital_garden/</loc>
     <lastmod>2024-04-12T17:41:52+12:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/002_my_website_gohugo/</loc>
+    <lastmod>2024-04-12T17:41:52+12:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/about/</loc>
     <lastmod>2024-04-12T17:41:52+12:00</lastmod>
   </url><url>
@@ -14,10 +17,16 @@
     <loc>http://localhost:1313/tags/digital-garden/</loc>
     <lastmod>2024-04-12T17:41:52+12:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/github/</loc>
+    <lastmod>2024-04-12T17:41:52+12:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-04-12T17:41:52+12:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-04-12T17:41:52+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/website/</loc>
     <lastmod>2024-04-12T17:41:52+12:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>

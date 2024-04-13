@@ -20,5 +20,12 @@
       <guid>http://localhost:1313/posts/001_digital_garden/</guid>
       <description>About my digital garden</description>
     </item>
+    <item>
+      <title>Creating my website with Creating my website with GoHugo in GitHub Pages</title>
+      <link>http://localhost:1313/posts/002_my_website_gohugo/</link>
+      <pubDate>Fri, 12 Apr 2024 17:41:52 +1200</pubDate>
+      <guid>http://localhost:1313/posts/002_my_website_gohugo/</guid>
+      <description>Creating my website with GoHugo in GitHub Pages</description>
+    </item>
   </channel>
 </rss>

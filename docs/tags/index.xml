@@ -27,5 +27,19 @@
       <guid>http://localhost:1313/tags/digital-garden/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Github</title>
+      <link>http://localhost:1313/tags/github/</link>
+      <pubDate>Fri, 12 Apr 2024 17:41:52 +1200</pubDate>
+      <guid>http://localhost:1313/tags/github/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Website</title>
+      <link>http://localhost:1313/tags/website/</link>
+      <pubDate>Fri, 12 Apr 2024 17:41:52 +1200</pubDate>
+      <guid>http://localhost:1313/tags/website/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

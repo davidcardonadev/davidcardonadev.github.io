@@ -84,8 +84,8 @@ params:
       url: "https://github.com/davidcardonadev"
     - name: LinkedIn
       url: "https://www.linkedin.com/in/jdavidcardonam/"
-    - name: YouTube
-      url: "https://youtube.com/@jdavidcardonam"
+    # - name: YouTube
+    #   url: "https://youtube.com/@jdavidcardonam"
     - name: Medium
       url: "https://medium.com/@jdavidcardonam"
 
