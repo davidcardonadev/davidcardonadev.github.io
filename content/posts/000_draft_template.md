@@ -1,13 +1,13 @@
 ---
-title: "Draft Template"
+title: " "
 date: 2024-04-12T17:41:52+12:00
 draft: true
-
-summary: "" #displays underneath title in blog title card on homepage
-description: "" #displays underneath title in actual blog page
-tags: [""]
+summary: " "
+description: " " 
+weight: 1
+tags: [" "]
 author: "David Cardona"
-showToc: true
+showToc: false
 TocOpen: false
 hidemeta: false
 comments: true
@@ -18,19 +18,15 @@ disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowReadingTime: true
-ShowBreadCrumbs: true
+ShowBreadCrumbs: false
 ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
-UseHugoToc: true
+UseHugoToc: false
 cover:
     image: "<image path/url>" # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
-editPost:
-    URL: "https://github.com/juandabi/juandabi.github.io/tree/master/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 ---
