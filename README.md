@@ -15,7 +15,7 @@ Note that there is no set planting schedule, and the plants may be re-tended to.
 
 I hope you enjoy visiting my garden.
 
-And I look forward to being invited to yours one day 😛
+And I look forward to being invited to yours one day.
 
 ---
 

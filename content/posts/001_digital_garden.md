@@ -35,7 +35,7 @@ Hello, world!
 I am an engineer who graduated from Colombia, eager to travel the world, and I am currently working as an engineer in Portugal. It's been 11 months and I've learned a lot, so I thought it was time to start a blog-ish (digital garden🪴) to document everything I've learned!
 
 
-This is my first ever digital garden aka dev blog! Check it out here 👉[link](https://juandabi.github.io/)
+This is my first ever digital garden aka dev blog! Check it out here 👉[link](https://davidcardonadev.github.io/)
 
 Except rather than a blog, I'd like to think of this as my digital garden where I [#learninpublic](https://www.swyx.io/learn-in-public/) 📝
 
@@ -50,7 +50,7 @@ Note that there is no set planting schedule, and the plants may be re-tended to.
 
 I hope you enjoy visiting my garden.
 
-And I look forward to being invited to yours one day 😛
+And I look forward to being invited to yours one day.
 
 ---
 
