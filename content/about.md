@@ -26,13 +26,6 @@ cover:
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
-badges:
-  - "https://img.shields.io/badge/python-3670A0?&logo=python&logoColor=ffdd54"
-  - "https://img.shields.io/badge/pandas-%23150458.svg?&logo=pandas&logoColor=white"
-  - "https://img.shields.io/badge/Tableau-E97627?&logo=Tableau&logoColor=white"
-  - "https://img.shields.io/badge/power_bi-F2C811?&logo=powerbi&logoColor=black"
-  - "https://img.shields.io/badge/Microsoft_Excel-217346?&logo=microsoft-excel&logoColor=white"
-
 ---
 ## 👋 I´m David Cardona
 
