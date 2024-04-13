@@ -42,9 +42,9 @@ Except rather than a blog, I'd like to think of this as my digital garden where 
 I plan to populate my garden with info on:
 
 - The stack I'm using: Python, Pandas, SQL, PowerBI, Tableu,MS Excel. 
-- Misc stuff eg how to use DevTools, writing tests, notes, cheat sheets, my fav tech people
-- Projects I build
-- My journey as a Engineer and traveler
+- Misc stuff eg how to use DevTools, writing tests, notes, cheat sheets, my fav tech people.
+- Projects I build.
+- My journey as an Engineer and traveler.
 
 Note that there is no set planting schedule, and the plants may be re-tended to.
 
