@@ -6,7 +6,7 @@ summary: "This project aims to explore COVID-19 statistics using SQL queries. Th
 tags: ["SQL,data science, data exporation, projects"]
 author: "David Cardona"
 showToc: true
-TocOpen: false
+TocOpen: true
 hidemeta: false
 comments: false
 canonicalURL: "https://canonical.url/to/page"
@@ -36,7 +36,7 @@ Link to the project 👉
 [COVID Statistics Data Exploration Project](https://github.com/davidcardonadev/COVID_Statistics_Data_Exploration_Project_in_SQL)
 
 ![picture_data_covid](/images/picture_data_covid.jpg)
-*[Foto de KOBU Agency](https://unsplash.com/photos/9we2OG_enU)*
+*[Picture of KOBU Agency](https://unsplash.com/es/fotos/pantalla-del-smartphone-que-muestra-1100--9we2OG_enU)*
   
 ## SQL Queries Used
 

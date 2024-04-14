@@ -35,6 +35,13 @@
       <description>This project aims to explore COVID-19 statistics using SQL queries. The data used in this project is sourced from the PortfolioProject database, containing information about COVID deaths and vaccinations across various locations and continents.</description>
     </item>
     <item>
+      <title>Nashville Housing Data Exploration Project in SQL</title>
+      <link>http://localhost:1313/posts/004_nashville_housing_data_exploration_project_in_sql/</link>
+      <pubDate>Sun, 14 Apr 2024 17:41:52 +1200</pubDate>
+      <guid>http://localhost:1313/posts/004_nashville_housing_data_exploration_project_in_sql/</guid>
+      <description>This SQL project focuses on exploring the Nashville housing dataset to clean and prepare the data for analysis. The dataset contains information about housing sales in Nashville, including property addresses, sale dates, and sale prices.</description>
+    </item>
+    <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Fri, 05 Apr 2024 17:36:07 +1200</pubDate>
