@@ -3,7 +3,6 @@ title: "🪴My digital Garden"
 date: 2024-04-12T17:41:52+12:00
 draft: false
 summary: "About my digital garden"
-description: "About my digital garden" 
 weight: 1
 tags: ["digital garden","about"]
 author: "David Cardona"
