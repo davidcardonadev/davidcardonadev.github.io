@@ -32,7 +32,7 @@ cover:
 ---
 ### 1. Covid Statistics Data Exploration Project in SQL
 
-This project aims to explore COVID-19 statistics using SQL queries. The data used in this project is sourced from the PortfolioProject database, containing information about COVID deaths and vaccinations across various locations and continents. [Read full post](/posts/003_COVID_Statistics_Data_Exploration_Project_in_SQL/)
+This project aims to explore COVID-19 statistics using SQL queries. The data used in this project is sourced from the PortfolioProject database, containing information about COVID deaths and vaccinations across various locations and continents. [Read full post](/posts/003_covid_statistics_data_exploration_project_in_sql/)
 
 
 - Link to the project 👉
@@ -42,7 +42,7 @@ This project aims to explore COVID-19 statistics using SQL queries. The data use
 
 ### 2. Nashville Housing Data Exploration Project in SQL
 
-This SQL project focuses on exploring the Nashville housing dataset to clean and prepare the data for analysis. The dataset contains information about housing sales in Nashville, including property addresses, sale dates, and sale prices. [Read full post](/posts/004_Nashville_Housing_Data_Exploration_Project_in_SQL/)
+This SQL project focuses on exploring the Nashville housing dataset to clean and prepare the data for analysis. The dataset contains information about housing sales in Nashville, including property addresses, sale dates, and sale prices. [Read full post](/posts/004_nashville_housing_data_exploration_project_in_sql/)
 
 
 - Link to the project 👉
