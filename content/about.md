@@ -38,6 +38,8 @@ cover:
 - 🌱 [#LearningInPublic](https://www.swyx.io/learn-in-public/) in my digital garden  
 - ⚡ Currently learning about data analytics and dataviz!
 
+![profile_picture](/images/profile.jpg)
+
 ## 🧑‍💻 Professional profile
 
 A confident and responsible engineer with expertise in Data Analysis using technologies like Python, SQL, JavaScript, Tableau, PowerBI, and databases. Experienced in collecting, organizing, interpreting, and reporting data to stakeholders, enabling informed decision-making within a data-driven culture. My background as a teacher has greatly enhanced my communication skills and soft skills.
@@ -45,7 +47,6 @@ A confident and responsible engineer with expertise in Data Analysis using techn
 In addition to my teaching experience, my background includes management, planning, and leading activities. I am an extremely hardworking individual who is enthusiastic about learning and taking on new tasks. Additionally, I excel in teamwork and possess excellent communication skills. Eager to achieve excellence in my work, education, and personal life.
 
 ### 🧰 Languages and tools
-
 
  ![Python](https://img.shields.io/badge/python-3670A0?&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?&logo=pandas&logoColor=white)

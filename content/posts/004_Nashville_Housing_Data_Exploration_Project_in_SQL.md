@@ -36,8 +36,9 @@ Link to the project 👉
 [Nashville Housing Data Exploration Project](https://github.com/davidcardonadev/Nashville_Housing_Data_Exploration_Project_in_SQL)
 
 
-![picture_data_covid](/images/nashville.jpg)
-*[Picture of Tanner Boriack](https://unsplash.com/es/fotos/estadio-de-futbol-americano-junto-al-edificio-y-la-carretera-durante-el-dia-GmoaEH48m8c?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)*
+![picture_data_covid](/images/nashville.jpg)  
+
+*[Picture of Tanner Boriack in Unsplash](https://unsplash.com/es/fotos/estadio-de-futbol-americano-junto-al-edificio-y-la-carretera-durante-el-dia-GmoaEH48m8c?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)*
   
 ## Objectives
 - Standardize date formats for consistency.
