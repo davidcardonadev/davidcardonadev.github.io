@@ -3,7 +3,7 @@ title: "COVID Statistics Data Exploration Project in SQL"
 date: 2024-04-14T17:41:52+12:00
 draft: false
 summary: "This project aims to explore COVID-19 statistics using SQL queries. The data used in this project is sourced from the PortfolioProject database, containing information about COVID deaths and vaccinations across various locations and continents."
-tags: ["SQL,data science, data exporation, projects"]
+tags: ["SQL","data science", "data exporation","projects"]
 author: "David Cardona"
 showToc: true
 TocOpen: true

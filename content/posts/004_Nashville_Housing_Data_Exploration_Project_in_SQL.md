@@ -3,7 +3,7 @@ title: "Nashville Housing Data Exploration Project in SQL"
 date: 2024-04-14T17:41:52+12:00
 draft: false
 summary: "This SQL project focuses on exploring the Nashville housing dataset to clean and prepare the data for analysis. The dataset contains information about housing sales in Nashville, including property addresses, sale dates, and sale prices."
-tags: ["SQL,data science, data exporation, projects"]
+tags: ["SQL","data science", "data exporation","projects"]
 author: "David Cardona"
 showToc: true
 TocOpen: true
