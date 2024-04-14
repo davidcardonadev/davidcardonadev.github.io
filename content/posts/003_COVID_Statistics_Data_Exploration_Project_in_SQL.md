@@ -35,6 +35,8 @@ This project aims to explore COVID-19 statistics using SQL queries. The data use
 Link to the project 👉
 [COVID Statistics Data Exploration Project](https://github.com/davidcardonadev/COVID_Statistics_Data_Exploration_Project_in_SQL)
 
+![picture_data_covid](/images/picture_data_covid.jpg)
+
 ## SQL Queries Used
 
 ### 1. Data Retrieval
