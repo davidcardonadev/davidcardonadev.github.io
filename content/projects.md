@@ -36,7 +36,7 @@ This project aims to explore COVID-19 statistics using SQL queries. The data use
 
 
 - Link to the project 👉
-[COVID Statistics Data Exploration Project](https://github.com/davidcardonadev/Nashville_Housing_Data_Exploration_Project_in_SQL)
+[COVID Statistics Data Exploration Project](https://github.com/davidcardonadev/COVID_Statistics_Data_Exploration_Project_in_SQL)
 
 ---
 
@@ -44,8 +44,9 @@ This project aims to explore COVID-19 statistics using SQL queries. The data use
 
 This SQL project focuses on exploring the Nashville housing dataset to clean and prepare the data for analysis. The dataset contains information about housing sales in Nashville, including property addresses, sale dates, and sale prices. [Read full post](/posts/004_Nashville_Housing_Data_Exploration_Project_in_SQL/)
 
+
 - Link to the project 👉
-[Nashville Housing Data Exploration Project](https://github.com/davidcardonadev/COVID_Statistics_Data_Exploration_Project_in_SQL)
+[Nashville Housing Data Exploration Project](https://github.com/davidcardonadev/Nashville_Housing_Data_Exploration_Project_in_SQL)
 
 <!-- ---  
   

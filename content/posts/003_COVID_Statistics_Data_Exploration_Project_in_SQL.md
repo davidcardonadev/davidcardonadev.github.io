@@ -33,7 +33,7 @@ cover:
 This project aims to explore COVID-19 statistics using SQL queries. The data used in this project is sourced from the PortfolioProject database, containing information about COVID deaths and vaccinations across various locations and continents.
 
 Link to the project 👉
-[COVID Statistics Data Exploration Project](https://github.com/davidcardonadev/Nashville_Housing_Data_Exploration_Project_in_SQL)
+[COVID Statistics Data Exploration Project](https://github.com/davidcardonadev/COVID_Statistics_Data_Exploration_Project_in_SQL)
 
 ![picture_data_covid](/images/picture_data_covid.jpg)
 *[Picture of KOBU Agency](https://unsplash.com/es/fotos/pantalla-del-smartphone-que-muestra-1100--9we2OG_enU)*
