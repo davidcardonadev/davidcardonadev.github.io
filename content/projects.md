@@ -48,6 +48,17 @@ This SQL project focuses on exploring the Nashville housing dataset to clean and
 - Link to the project 👉
 [Nashville Housing Data Exploration Project](https://github.com/davidcardonadev/Nashville_Housing_Data_Exploration_Project_in_SQL)
 
+---
+
+### 3. Bike Sales Dashboard Project in Excel
+
+This project focuses on analyzing bike sales data using Excel. The dataset contains information on customers, including demographic details such as gender, income, education, occupation, and commute distance, along with whether they purchased a bike or not. [Read full post](/posts/005_dashboard_bikes_sales_in_excel/)
+
+
+- Link to the project 👉
+[Bike Sales Dashboard Project](https://github.com/davidcardonadev/dashboard_bikes_sales_in_excel)
+
+
 <!-- ---  
   
 
