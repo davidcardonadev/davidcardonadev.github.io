@@ -78,7 +78,7 @@ My journey reflects a tapestry of experiences that have deepened my global persp
 My journey reflects a collection of experiences that have deepened my global perspective and fueled my commitment to effecting positive change.
 
 ### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=blue-green)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=blue-green)
 
 
 
