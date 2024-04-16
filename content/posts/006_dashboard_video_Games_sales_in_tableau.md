@@ -32,10 +32,9 @@ cover:
 ## Overview
 This Tableau project focuses on analyzing global video game sales data. The dataset includes information such as game rank, name, platform, release year, genre, publisher, and sales figures for different regions.
 
-
-Links to the project:👉 
-- [Project in GitHub](https://github.com/davidcardonadev/video_games_sales_in_tableau) 
-- [Dashboard in Tableau](https://public.tableau.com/views/video_games_sales_17132918891570/Dashboard1?:language=es-ES&:sid=&:display_count=n&:origin=viz_share_link)
+- Links to the project:👉 
+  - [Project in GitHub](https://github.com/davidcardonadev/video_games_sales_in_tableau) 
+  - [Dashboard in Tableau](https://public.tableau.com/views/video_games_sales_17132918891570/Dashboard1?:language=es-ES&:sid=&:display_count=n&:origin=viz_share_link)
 
 
 ![picture_data_covid](/images/video_games.jpg)\

@@ -36,7 +36,7 @@ This project aims to explore COVID-19 statistics using SQL queries. The data use
 
 
 - Link to the project 👉
-[COVID Statistics Data Exploration Project](https://github.com/davidcardonadev/COVID_Statistics_Data_Exploration_Project_in_SQL)
+[COVID statistics data exploration project](https://github.com/davidcardonadev/COVID_Statistics_Data_Exploration_Project_in_SQL)
 
 ---
 
@@ -46,7 +46,7 @@ This SQL project focuses on exploring the Nashville housing dataset to clean and
 
 
 - Link to the project 👉
-[Nashville Housing Data Exploration Project](https://github.com/davidcardonadev/Nashville_Housing_Data_Exploration_Project_in_SQL)
+[Nashville housing data exploration project](https://github.com/davidcardonadev/Nashville_Housing_Data_Exploration_Project_in_SQL)
 
 ---
 
@@ -56,8 +56,15 @@ This project focuses on analyzing bike sales data using Excel. The dataset conta
 
 
 - Link to the project 👉
-[Bike Sales Dashboard Project](https://github.com/davidcardonadev/dashboard_bikes_sales_in_excel)
+[Bike sales dashboard project](https://github.com/davidcardonadev/dashboard_bikes_sales_in_excel)
 
+### 4. Video games Sales Dashboard Project in Tableau
+
+This Tableau project focuses on analyzing global video game sales data. The dataset includes information such as game rank, name, platform, release year, genre, publisher, and sales figures for different regions. [Read full post](/posts/006_dashboard_video_games_sales_in_tableau/)
+
+- Links to the project:👉 
+  - [Project in GitHub](https://github.com/davidcardonadev/video_games_sales_in_tableau) 
+  - [Dashboard in Tableau](https://public.tableau.com/views/video_games_sales_17132918891570/Dashboard1?:language=es-ES&:sid=&:display_count=n&:origin=viz_share_link)
 
 <!-- ---  
   
