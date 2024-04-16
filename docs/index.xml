@@ -35,6 +35,13 @@
       <description>This project focuses on analyzing bike sales data using Excel. The dataset contains information on customers, including demographic details such as gender, income, education, occupation, and commute distance, along with whether they purchased a bike or not.</description>
     </item>
     <item>
+      <title>Video games Sales Dashboard Project</title>
+      <link>http://localhost:1313/posts/006_dashboard_video_games_sales_in_tableau/</link>
+      <pubDate>Mon, 15 Apr 2024 17:41:52 +1200</pubDate>
+      <guid>http://localhost:1313/posts/006_dashboard_video_games_sales_in_tableau/</guid>
+      <description>This Tableau project focuses on analyzing global video game sales data. The dataset includes information such as game rank, name, platform, release year, genre, publisher, and sales figures for different regions.</description>
+    </item>
+    <item>
       <title>COVID Statistics Data Exploration Project in SQL</title>
       <link>http://localhost:1313/posts/003_covid_statistics_data_exploration_project_in_sql/</link>
       <pubDate>Sun, 14 Apr 2024 17:41:52 +1200</pubDate>

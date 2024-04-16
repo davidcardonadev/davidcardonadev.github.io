@@ -32,7 +32,13 @@
     <loc>http://localhost:1313/tags/projects/</loc>
     <lastmod>2024-04-15T17:41:52+12:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/tableau/</loc>
+    <lastmod>2024-04-15T17:41:52+12:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-04-15T17:41:52+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/006_dashboard_video_games_sales_in_tableau/</loc>
     <lastmod>2024-04-15T17:41:52+12:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/003_covid_statistics_data_exploration_project_in_sql/</loc>
