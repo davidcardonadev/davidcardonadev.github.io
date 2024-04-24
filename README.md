@@ -1,6 +1,6 @@
 # 🪴 Digital Garden
 
-This is my first ever digital garden aka dev blog! Check it out here 👉[link](https://juandabi.github.io/)
+This is my first ever digital garden aka dev blog! Check it out here 👉[link](https://davidcardonadev.github.io/)
 
 Except rather than a blog, I'd like to think of this as my digital garden where I [#learninpublic](https://www.swyx.io/learn-in-public/) 📝
 
