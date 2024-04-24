@@ -21,13 +21,6 @@
       <description>About my digital garden</description>
     </item>
     <item>
-      <title>Creating my website with GoHugo</title>
-      <link>http://localhost:1313/posts/002_my_website_gohugo/</link>
-      <pubDate>Sat, 13 Apr 2024 17:41:52 +1200</pubDate>
-      <guid>http://localhost:1313/posts/002_my_website_gohugo/</guid>
-      <description>Creating my website with GoHugo in GitHub Pages</description>
-    </item>
-    <item>
       <title>Airbnb Lisbon Dashboard Project in SQL and Tableau</title>
       <link>http://localhost:1313/posts/007_airbnb_lisbon_dashboard_in_sql_tableau/</link>
       <pubDate>Wed, 24 Apr 2024 17:41:52 +1200</pubDate>
@@ -35,14 +28,14 @@
       <description>This project focuses on analyzing Airbnb listings in Lisbon using both SQL and Tableau. The dataset includes information on listings, calendar availability, and reviews. The goal is to gain insights into pricing trends, property types, and neighborhood preferences of Airbnb guests in Lisbon.</description>
     </item>
     <item>
-      <title>Bike Sales Dashboard Project</title>
+      <title>Bike Sales Dashboard Projec in excel</title>
       <link>http://localhost:1313/posts/005_dashboard_bikes_sales_in_excel/</link>
       <pubDate>Mon, 15 Apr 2024 17:41:52 +1200</pubDate>
       <guid>http://localhost:1313/posts/005_dashboard_bikes_sales_in_excel/</guid>
       <description>This project focuses on analyzing bike sales data using Excel. The dataset contains information on customers, including demographic details such as gender, income, education, occupation, and commute distance, along with whether they purchased a bike or not.</description>
     </item>
     <item>
-      <title>Video games Sales Dashboard Project</title>
+      <title>Video games Sales Dashboard Project in tableau</title>
       <link>http://localhost:1313/posts/006_dashboard_video_games_sales_in_tableau/</link>
       <pubDate>Mon, 15 Apr 2024 17:41:52 +1200</pubDate>
       <guid>http://localhost:1313/posts/006_dashboard_video_games_sales_in_tableau/</guid>
@@ -61,6 +54,13 @@
       <pubDate>Sun, 14 Apr 2024 17:41:52 +1200</pubDate>
       <guid>http://localhost:1313/posts/004_nashville_housing_data_exploration_project_in_sql/</guid>
       <description>This SQL project focuses on exploring the Nashville housing dataset to clean and prepare the data for analysis. The dataset contains information about housing sales in Nashville, including property addresses, sale dates, and sale prices.</description>
+    </item>
+    <item>
+      <title>Creating my website with GoHugo</title>
+      <link>http://localhost:1313/posts/002_my_website_gohugo/</link>
+      <pubDate>Sat, 13 Apr 2024 17:41:52 +1200</pubDate>
+      <guid>http://localhost:1313/posts/002_my_website_gohugo/</guid>
+      <description>Creating my website with GoHugo in GitHub Pages</description>
     </item>
     <item>
       <title>Projects</title>

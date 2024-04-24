@@ -30,7 +30,16 @@ cover:
 
 ## Completed
 ---
-### 1. Covid Statistics Data Exploration Project in SQL
+### 1. Airbnb Lisbon Dashboard Project in SQL and Tableau
+
+This project focuses on analyzing Airbnb listings in Lisbon using both SQL and Tableau. The dataset includes information on listings, calendar availability, and reviews. The goal is to gain insights into pricing trends, property types, and neighborhood preferences of Airbnb guests in Lisbon. [Read full post](/posts/007_airbnb_lisbon_dashboard_in_sql_Tableau)
+
+Links to the project: 👉
+- [Project in GitHub](https://github.com/davidcardonadev/dashboard_airbnb_lisbon_in_sql_tableau) 
+- [Dashboard airbnb lisbon](https://public.tableau.com/views/ExploringLisbonsAirbnbLandscape/Dashboard1?:language=es-ES&:sid=&:display_count=n&:origin=viz_share_link)
+
+---
+### 2. Covid Statistics Data Exploration Project in SQL
 
 This project aims to explore COVID-19 statistics using SQL queries. The data used in this project is sourced from the PortfolioProject database, containing information about COVID deaths and vaccinations across various locations and continents. [Read full post](/posts/003_covid_statistics_data_exploration_project_in_sql/)
 
@@ -40,7 +49,7 @@ This project aims to explore COVID-19 statistics using SQL queries. The data use
 
 ---
 
-### 2. Nashville Housing Data Exploration Project in SQL
+### 3. Nashville Housing Data Exploration Project in SQL
 
 This SQL project focuses on exploring the Nashville housing dataset to clean and prepare the data for analysis. The dataset contains information about housing sales in Nashville, including property addresses, sale dates, and sale prices. [Read full post](/posts/004_nashville_housing_data_exploration_project_in_sql/)
 
@@ -50,7 +59,7 @@ This SQL project focuses on exploring the Nashville housing dataset to clean and
 
 ---
 
-### 3. Bike Sales Dashboard Project in Excel
+### 4. Bike Sales Dashboard Project in Excel
 
 This project focuses on analyzing bike sales data using Excel. The dataset contains information on customers, including demographic details such as gender, income, education, occupation, and commute distance, along with whether they purchased a bike or not. [Read full post](/posts/005_dashboard_bikes_sales_in_excel/)
 
@@ -58,7 +67,9 @@ This project focuses on analyzing bike sales data using Excel. The dataset conta
 - Link to the project 👉
 [Bike sales dashboard project](https://github.com/davidcardonadev/dashboard_bikes_sales_in_excel)
 
-### 4. Video games Sales Dashboard Project in Tableau
+---
+
+### 5. Video games Sales Dashboard Project in Tableau
 
 This Tableau project focuses on analyzing global video game sales data. The dataset includes information such as game rank, name, platform, release year, genre, publisher, and sales figures for different regions. [Read full post](/posts/006_dashboard_video_games_sales_in_tableau/)
 

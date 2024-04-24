@@ -3,7 +3,6 @@ title: "Creating my website with GoHugo"
 date: 2024-04-13T17:41:52+12:00
 draft: false
 summary: "Creating my website with GoHugo in GitHub Pages"
-weight: 2
 tags: ["Github","Website"]
 author: "David Cardona"
 showToc: false

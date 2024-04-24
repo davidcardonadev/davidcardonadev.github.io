@@ -32,7 +32,7 @@ cover:
 ## Overview
 This project focuses on analyzing Airbnb listings in Lisbon using both SQL and Tableau. The dataset includes information on listings, calendar availability, and reviews. The goal is to gain insights into pricing trends, property types, and neighborhood preferences of Airbnb guests in Lisbon.
 
-Link to the project: 👉
+Links to the project: 👉
 - [Project in GitHub](https://github.com/davidcardonadev/dashboard_airbnb_lisbon_in_sql_tableau) 
 - [Dashboard airbnb lisbon](https://public.tableau.com/views/ExploringLisbonsAirbnbLandscape/Dashboard1?:language=es-ES&:sid=&:display_count=n&:origin=viz_share_link)
 
