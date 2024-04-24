@@ -1,5 +1,5 @@
 ---
-title: "Video games Sales Dashboard Project"
+title: "Video games Sales Dashboard Project in tableau"
 date: 2024-04-15T17:41:52+12:00
 draft: false
 summary: "This Tableau project focuses on analyzing global video game sales data. The dataset includes information such as game rank, name, platform, release year, genre, publisher, and sales figures for different regions."
