@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tableau on David Cardona</title>
-    <link>http://localhost:1313/tags/tableau/</link>
-    <description>Recent content in Tableau on David Cardona</description>
+    <title>Data Cleaning on David Cardona</title>
+    <link>http://localhost:1313/tags/data-cleaning/</link>
+    <description>Recent content in Data Cleaning on David Cardona</description>
     <image>
       <title>David Cardona</title>
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,20 +12,13 @@
     <generator>Hugo -- 0.124.1</generator>
     <language>en</language>
     <lastBuildDate>Wed, 24 Apr 2024 17:41:52 +1200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/tableau/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/data-cleaning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Airbnb Lisbon Dashboard Project in SQL and Tableau</title>
       <link>http://localhost:1313/posts/007_airbnb_lisbon_dashboard_in_sql_tableau/</link>
       <pubDate>Wed, 24 Apr 2024 17:41:52 +1200</pubDate>
       <guid>http://localhost:1313/posts/007_airbnb_lisbon_dashboard_in_sql_tableau/</guid>
       <description>This project focuses on analyzing Airbnb listings in Lisbon using both SQL and Tableau. The dataset includes information on listings, calendar availability, and reviews. The goal is to gain insights into pricing trends, property types, and neighborhood preferences of Airbnb guests in Lisbon.</description>
-    </item>
-    <item>
-      <title>Video games Sales Dashboard Project</title>
-      <link>http://localhost:1313/posts/006_dashboard_video_games_sales_in_tableau/</link>
-      <pubDate>Mon, 15 Apr 2024 17:41:52 +1200</pubDate>
-      <guid>http://localhost:1313/posts/006_dashboard_video_games_sales_in_tableau/</guid>
-      <description>This Tableau project focuses on analyzing global video game sales data. The dataset includes information such as game rank, name, platform, release year, genre, publisher, and sales figures for different regions.</description>
     </item>
   </channel>
 </rss>
