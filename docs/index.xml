@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- 0.124.1</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Apr 2024 17:41:52 +1200</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 17:41:52 +1200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🪴My digital Garden</title>
@@ -21,6 +21,13 @@
       <description>About my digital garden</description>
     </item>
     <item>
+      <title>Data Professional Survey Breakdown Dashboard Project in Power BI</title>
+      <link>http://localhost:1313/posts/008_data_professional_survey_power_bi/</link>
+      <pubDate>Thu, 02 May 2024 17:41:52 +1200</pubDate>
+      <guid>http://localhost:1313/posts/008_data_professional_survey_power_bi/</guid>
+      <description>This Power BI project focuses on analyzing survey data from data professionals to gain insights into various aspects of their roles, satisfaction levels, demographics, and more. The dashboard aims to provide a comprehensive view of the survey results through interactive visualizations.</description>
+    </item>
+    <item>
       <title>Airbnb Lisbon Dashboard Project in SQL and Tableau</title>
       <link>http://localhost:1313/posts/007_airbnb_lisbon_dashboard_in_sql_tableau/</link>
       <pubDate>Wed, 24 Apr 2024 17:41:52 +1200</pubDate>
@@ -28,7 +35,7 @@
       <description>This project focuses on analyzing Airbnb listings in Lisbon using both SQL and Tableau. The dataset includes information on listings, calendar availability, and reviews. The goal is to gain insights into pricing trends, property types, and neighborhood preferences of Airbnb guests in Lisbon.</description>
     </item>
     <item>
-      <title>Bike Sales Dashboard Projec in excel</title>
+      <title>Bike Sales Dashboard Project in excel</title>
       <link>http://localhost:1313/posts/005_dashboard_bikes_sales_in_excel/</link>
       <pubDate>Mon, 15 Apr 2024 17:41:52 +1200</pubDate>
       <guid>http://localhost:1313/posts/005_dashboard_bikes_sales_in_excel/</guid>

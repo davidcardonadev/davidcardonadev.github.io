@@ -1,5 +1,5 @@
 ---
-title: "Bike Sales Dashboard Projec in excel"
+title: "Bike Sales Dashboard Project in excel"
 date: 2024-04-15T17:41:52+12:00
 draft: false
 summary: "This project focuses on analyzing bike sales data using Excel. The dataset contains information on customers, including demographic details such as gender, income, education, occupation, and commute distance, along with whether they purchased a bike or not."
