@@ -77,6 +77,13 @@ This Tableau project focuses on analyzing global video game sales data. The data
   - [Project in GitHub](https://github.com/davidcardonadev/video_games_sales_in_tableau) 
   - [Dashboard in Tableau](https://public.tableau.com/views/video_games_sales_17132918891570/Dashboard1?:language=es-ES&:sid=&:display_count=n&:origin=viz_share_link)
 
+### 6. Data Professional Survey Breakdown Dashboard Project in Power BI
+
+This Power BI project focuses on analyzing survey data from data professionals to gain insights into various aspects of their roles, satisfaction levels, demographics, and more. The dashboard aims to provide a comprehensive view of the survey results through interactive visualizations. [Read full post](/posts/008_data_professional_survey_power_bi/)
+
+- Link to the project 👉
+[Data Professional Survey project](https://github.com/davidcardonadev/data_professional_survey_power_bi)
+
 <!-- ---  
   
 
