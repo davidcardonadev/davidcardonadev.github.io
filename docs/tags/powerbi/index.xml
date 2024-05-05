@@ -11,11 +11,12 @@
     </image>
     <generator>Hugo -- 0.124.1</generator>
     <language>en</language>
+    <lastBuildDate>Thu, 02 May 2024 17:41:52 +1200</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/powerbi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Professional Survey Breakdown Dashboard Project in Power BI</title>
       <link>http://localhost:1313/posts/008_data_professional_survey_power_bi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 02 May 2024 17:41:52 +1200</pubDate>
       <guid>http://localhost:1313/posts/008_data_professional_survey_power_bi/</guid>
       <description>This Power BI project focuses on analyzing survey data from data professionals to gain insights into various aspects of their roles, satisfaction levels, demographics, and more. The dashboard aims to provide a comprehensive view of the survey results through interactive visualizations.</description>
     </item>

@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.124.1</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Apr 2024 17:41:52 +1200</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 17:41:52 +1200</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Professional Survey Breakdown Dashboard Project in Power BI</title>
+      <link>http://localhost:1313/posts/008_data_professional_survey_power_bi/</link>
+      <pubDate>Thu, 02 May 2024 17:41:52 +1200</pubDate>
+      <guid>http://localhost:1313/posts/008_data_professional_survey_power_bi/</guid>
+      <description>This Power BI project focuses on analyzing survey data from data professionals to gain insights into various aspects of their roles, satisfaction levels, demographics, and more. The dashboard aims to provide a comprehensive view of the survey results through interactive visualizations.</description>
+    </item>
     <item>
       <title>Airbnb Lisbon Dashboard Project in SQL and Tableau</title>
       <link>http://localhost:1313/posts/007_airbnb_lisbon_dashboard_in_sql_tableau/</link>
@@ -47,13 +54,6 @@
       <pubDate>Sun, 14 Apr 2024 17:41:52 +1200</pubDate>
       <guid>http://localhost:1313/posts/004_nashville_housing_data_exploration_project_in_sql/</guid>
       <description>This SQL project focuses on exploring the Nashville housing dataset to clean and prepare the data for analysis. The dataset contains information about housing sales in Nashville, including property addresses, sale dates, and sale prices.</description>
-    </item>
-    <item>
-      <title>Data Professional Survey Breakdown Dashboard Project in Power BI</title>
-      <link>http://localhost:1313/posts/008_data_professional_survey_power_bi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/008_data_professional_survey_power_bi/</guid>
-      <description>This Power BI project focuses on analyzing survey data from data professionals to gain insights into various aspects of their roles, satisfaction levels, demographics, and more. The dashboard aims to provide a comprehensive view of the survey results through interactive visualizations.</description>
     </item>
   </channel>
 </rss>

@@ -5,37 +5,46 @@
     <loc>http://localhost:1313/posts/001_digital_garden/</loc>
     <lastmod>2024-04-12T17:41:52+12:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/data-analyzing/</loc>
+    <lastmod>2024-05-02T17:41:52+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/data-cleaning/</loc>
+    <lastmod>2024-05-02T17:41:52+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/008_data_professional_survey_power_bi/</loc>
+    <lastmod>2024-05-02T17:41:52+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/data-science/</loc>
+    <lastmod>2024-05-02T17:41:52+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/data-visualization/</loc>
+    <lastmod>2024-05-02T17:41:52+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-05-02T17:41:52+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-05-02T17:41:52+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/powerbi/</loc>
+    <lastmod>2024-05-02T17:41:52+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/projects/</loc>
+    <lastmod>2024-05-02T17:41:52+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-05-02T17:41:52+12:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/007_airbnb_lisbon_dashboard_in_sql_tableau/</loc>
     <lastmod>2024-04-24T17:41:52+12:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/data-analyzing/</loc>
-    <lastmod>2024-04-24T17:41:52+12:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/data-cleaning/</loc>
-    <lastmod>2024-04-24T17:41:52+12:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/data-exploration/</loc>
-    <lastmod>2024-04-24T17:41:52+12:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/data-science/</loc>
-    <lastmod>2024-04-24T17:41:52+12:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-04-24T17:41:52+12:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-04-24T17:41:52+12:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/projects/</loc>
     <lastmod>2024-04-24T17:41:52+12:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/sql/</loc>
     <lastmod>2024-04-24T17:41:52+12:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/tableau/</loc>
-    <lastmod>2024-04-24T17:41:52+12:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-04-24T17:41:52+12:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/005_dashboard_bikes_sales_in_excel/</loc>
@@ -77,12 +86,6 @@
     <loc>http://localhost:1313/archive/</loc>
   </url><url>
     <loc>http://localhost:1313/changelog/</loc>
-  </url><url>
-    <loc>http://localhost:1313/posts/008_data_professional_survey_power_bi/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/data-visualization/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/powerbi/</loc>
   </url><url>
     <loc>http://localhost:1313/search/</loc>
   </url>
